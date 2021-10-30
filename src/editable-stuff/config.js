@@ -13,7 +13,7 @@ const mainBody = {
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/hashirshoaeb",
+      url: "https://theboldone.github.io/Website/",
     },
     {
       image: "fa-facebook",
